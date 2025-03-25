@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "powerofunivers:ore_of_univers",
+    "powerofunivers:nether_ore_of_univers",
+    "powerofunivers:deepslate_ore_of_univers",
+    "powerofunivers:end_ore_of_univers"
+  ]
+}

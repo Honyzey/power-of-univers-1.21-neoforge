@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 2,
+  "group": "ingot_of_univers",
+  "ingredient": {
+    "item": "powerofunivers:deepslate_ore_of_univers"
+  },
+  "result": {
+    "id": "powerofunivers:ingot_of_univers"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "powerofunivers:test_test"
+    },
+    "T": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "#T#",
+    "TTT",
+    "#T#"
+  ],
+  "result": {
+    "count": 10,
+    "id": "minecraft:nether_star"
+  }
+}

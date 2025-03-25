@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+        "item": "powerofunivers:test_test"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+    "result": {
+        "count": 1,
+        "id": "powerofunivers:test_block"
+    }
+}

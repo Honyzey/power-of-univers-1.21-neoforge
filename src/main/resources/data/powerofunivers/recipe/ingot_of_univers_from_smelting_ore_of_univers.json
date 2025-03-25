@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2,
+  "group": "ingot_of_univers",
+  "ingredient": {
+    "item": "powerofunivers:ore_of_univers"
+  },
+  "result": {
+    "id": "powerofunivers:ingot_of_univers"
+  }
+}
